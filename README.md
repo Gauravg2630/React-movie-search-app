@@ -35,7 +35,7 @@ A sleek and dynamic movie search application built with **ReactJS** that fetches
 
 ## 🔗 Live Demo
 
-🌐 [Live on Netlify](https://your-netlify-link.netlify.app/)
+🌐 [Live on Netlify](https://gaurav-movie-search-app.netlify.app/)
 
 ---
 
